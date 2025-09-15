@@ -1,0 +1,1 @@
+given an array and increment number generate a new array which contain all value of original array increase by increment value . 
