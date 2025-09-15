@@ -1,3 +1,8 @@
 A = list(map(int, input("Enter numbers: ").split()))
 B = int(input("Enter number to search: "))
-print(1 if B in A else 0)
+found = 0
+for x in A:
+    if x == B:
+        found = 1
+        break
+print(found)

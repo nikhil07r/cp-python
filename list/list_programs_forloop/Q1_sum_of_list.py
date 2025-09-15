@@ -1,2 +1,5 @@
 A = list(map(int, input("Enter numbers: ").split()))
-print(max(A), min(A))
+total = 0
+for x in A:
+    total += x
+print(total)
