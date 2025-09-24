@@ -1,0 +1,5 @@
+A function in a python block of resuable code that returns a specific task.
+
+def hello():  #functions definition and function name 
+print("hello")
+hello()#function call

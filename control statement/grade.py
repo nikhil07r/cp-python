@@ -1,4 +1,4 @@
-a= float(input("Enter the percentage: "))
+a = float(input("Enter the percentage: "))
 
 if a >= 90:
     print("Grade: A")   

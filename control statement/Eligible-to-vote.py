@@ -1,4 +1,4 @@
-# Q1. Eligible to vote exercise question using if-else statements.
+# Q8. Eligible to vote exercise question using if-else statements.
 
 age = int(input("\nEnter age: "))
 

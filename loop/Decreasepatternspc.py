@@ -12,4 +12,4 @@ for i in range(rows, 0, -1):
             print("*", end="")
         else:
             print("_", end="")
-    print()
+    print() 
